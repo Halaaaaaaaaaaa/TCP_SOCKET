@@ -6,7 +6,7 @@ import java.io.OutputStream;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-public class ProtocolServer extends Thread {
+public class Server2 extends Thread {
 
     final static int SERVER_PORT = 1228;
     final static String MESSAGE_TO_SERVER = "Hello, Client. I'm Server";

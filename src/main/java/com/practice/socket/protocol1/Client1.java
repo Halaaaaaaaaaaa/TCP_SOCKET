@@ -6,7 +6,7 @@ import java.io.OutputStream;
 import java.net.Socket;
 import java.net.UnknownHostException;
 
-public class ProtocolClient {
+public class Client1 {
 
     final static String SERVER_IP = "127.0.0.1";
     final static int SERVER_PORT = 1228;
